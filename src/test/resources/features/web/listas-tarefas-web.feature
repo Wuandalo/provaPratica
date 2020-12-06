@@ -6,7 +6,7 @@ Funcionalidade: Criação de listas e tarefas
 
     Contexto: Logando no site
       Dado que o usuario acessa o site "https://todo.microsoft.com"
-      E efetua login com email "gustavo_gu2009@hotmail.com" e senha "36033585-Ghs"
+      E efetua login com email "teste@teste.com.br" e senha "123"
 
     @web @criacaoListas
     Cenário: Criação de listas

@@ -17,4 +17,5 @@ import cucumber.api.junit.Cucumber;
         tags = {"@web"})
 
 public class RunTest extends BaseTest{
+
 }
