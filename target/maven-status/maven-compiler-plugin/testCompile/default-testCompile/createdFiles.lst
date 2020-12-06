@@ -1,0 +1,3 @@
+br\com\runTest\RunTest.class
+br\com\projeto\web\funcionalidades\CommonFuncionalidade.class
+br\com\projeto\web\steps\CommonStep.class
